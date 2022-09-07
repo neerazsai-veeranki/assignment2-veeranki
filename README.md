@@ -22,3 +22,13 @@ It has a collection of sculptures, paintings, carvings, textiles, manuscripts, c
 2. Another option, we can find public transport like Buses from airport to city Busstand, from there take and Auto/Cab to the Museum.
 
 3. These Days we can also rent a  Car/Bike and ride to the Museum
+
+<hr>
+
+### Places to visit around Salar Jung Museum
+
+* Charminar
+* Golkonda Fort
+* Ramoji Film City
+* Birla Mandir
+* Nehru Zoological Park
