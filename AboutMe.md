@@ -18,3 +18,16 @@ Here the following table has the data of places that are worth of exploring, its
 |   Vijayawada | Durga tempple     |    1-2 hours  |
 |   Ladakh     | pangong lake      |    1 day      |
 
+<hr>
+
+### Quotes that define Life
+<br>
+
+> The meaning of life is just to be alive. It is so plain and so obvious and so simple.<br>
+-- _Alan Watts_
+
+<br>
+
+> Everything is done with a goal, and that goal is "good". <br>
+-- _Aristotle_
+
