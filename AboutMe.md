@@ -31,3 +31,22 @@ Here the following table has the data of places that are worth of exploring, its
 > Everything is done with a goal, and that goal is "good". <br>
 -- _Aristotle_
 
+<hr>
+<br>
+
+## CODE SNIPPET - HTML
+
+<br>
+
+> How to select multiple files in HTML - [_stackoverflow.com_](https://stackoverflow.com/questions/1593225/how-to-select-multiple-files-with-input-type-file) 
+
+<br>
+
+``` 
+<form method="post" action="upload.php" enctype="multipart/form-data">
+  <input name='uploads[]' type="file" multiple>
+  <input type="submit" value="Send">
+</form> 
+```
+
+[Quick-link](https://css-tricks.com/snippets/html/multiple-file-input/) for the snippet source [CSS-TRICKS.COM] .
